@@ -1,5 +1,5 @@
 <?php
 
-echo "Welcome to PHP7"
+echo "Welcome to PHP7. Hello Mundo"
 
 ?>
